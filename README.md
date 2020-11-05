@@ -1,2 +1,2 @@
 # wagapp
-sample project
+sample resume project
